@@ -1,4 +1,4 @@
-# ATB 6x - Java Programms
+💻✨Java Programs
 
 This repository contains Java programs and notes covering various topics, including:
 
